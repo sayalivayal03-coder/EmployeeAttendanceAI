@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Face dataset - DO NOT upload
+dataset/
+Image_Train/
+Image_Test/
+face_dataset/
+*.jpg
+*.jpeg
+*.png
+
+# Secrets
+.env
+secrets.json
+credentials.json
+
+# Streamlit
+.streamlit/secrets.toml
+data/archive (3)/
+*.zip
